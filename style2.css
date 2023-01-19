@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;0,1000;1,1000&family=Poppins:wght@600&display=swap');
+
+#acceuille{
+    font-family: 'Nunito';
+    margin-bottom: 10%;
+}
+#acceuil{
+    padding-top: 8%;
+}
+#acceuil h1 b {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 102.5%;
+}
+#acceuil button{
+    width: 284px;
+    height: 60px;
+    
+    background: #159F15;
+    border-radius: 50px;
+    border: none;
+}
+#acceuil button a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+#lg12{
+    text-align: center;
+    margin-bottom: 6%;
+    font-family: 'Nunito';
+}
+#lg12 h3 b{
+    font-family: 'Nunito';
+}
+#p2{
+    margin-bottom: 5%;
+}
+.containeur .sous{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.65px;
+    line-height: 120%;
+    color: #FF6600;
+}
+#p3 #lg4{
+    width: 380px;
+    height: 363px;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+#p3{
+    margin-left: 10%;
+}
+#p3 img{
+    margin-top: 3%;
+    margin-bottom: 7%;
+}
+#p3 #sous{
+    padding-top: 7%;
+}
+#p3 #sous #time p{
+    margin-left: 45%;
+    font-size: 14px;
+    line-height: 180%;
+}
+#p3 #lg5{
+    width: 380px;
+    height: 363px;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    margin-left: 4%;
+}
+#p4{
+    margin-bottom: 7%;
+}
+#p4 #l4{
+    margin-top: 2%;
+}
+#p4 img{
+    margin-left: 5%;
+    margin-top: -5%;
+}
+#p4 button{
+    width: 284px;
+height: 60px;
+
+/* Fosa3 */
+
+background: #159F15;
+border-radius: 12px;
+color: white;
+border: none;
+margin-left: 50%;
+}
+#p5{
+    margin-bottom: 7%;
+}
+#p5 #img{
+    margin-left: 15%;
+}
+#p5 h3{
+    margin-top: 20%;
+}

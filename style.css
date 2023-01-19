@@ -1,0 +1,48 @@
+/* header */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Poppins:wght@600&display=swap');
+*{
+    font-family: 'Poppins';
+    font-style: normal;
+}
+body{
+    width: 99.2%;
+}
+#conataineur{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#row{
+    padding-top: 20px;
+}
+#lg8{
+    padding-top: 1%; 
+}
+ul{
+    margin-left: 4vw;
+}
+li a{
+    text-decoration: none;
+    width: 64px;
+    height: 29px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 180%;
+    margin-left: 3vw;
+    color: #635B5B;
+
+}
+li a:hover{
+    color: #159F15;
+}
+#lg2{
+    padding-top: 2%;
+}
+select{
+    border: none;
+    margin-left: 3vw;
+    color: #524e4e;
+    background-color: white;
+}
+/* acceuil */
+
+/* footer */

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Poppins:wght@600&display=swap');
+body{
+    width: 99.2%;
+}
+#footer{
+    background-image: url(Fosa3/footer.png);
+    height: 460px;
+    padding-top: 8%;
+}
+#md6 p{
+    color:  #FFFFFF;
+    font-size: 24px;
+    line-height: 33px;
+    margin-left: 7%;
+}
+h3{
+    color: #FFFFFF;
+    padding-bottom: 3%;
+}
+#lg1{
+    padding-left: 5%;
+}
+#lg4 p{
+    color:#FFFFFF;
+    font-size: 24px;
+    line-height: 33px;
+}
+input[type=email]{
+    width: 408px;
+    height: 59px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+input[type=submit]{
+    width: 115px;
+    height: 37px;
+    background: #159F15;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 1%;
+}
+#lg3 p{
+    width: 175px;
+    height: 36.84px;
+}
+#lg3 p i{
+    color: #FFFFFF;
+    margin-left: 10px;
+    font-size: 20px;
+}

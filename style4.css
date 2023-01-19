@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Poppins:wght@600&display=swap');
+*.container{
+    width: 99.2%;
+}
+
+.containeur{
+    background-image: url(DecouvrirIMG/image\ 4.png);
+    height: 316px;
+    margin-bottom: 4%;
+    width: 100%;
+}
+.containeur h1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33.18px;
+    line-height: 120%;
+    margin-top: 9%;
+    color: white;
+    margin-left: 6.5%;
+}
+#lorem #lorem2 h1{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 67.9392px;
+    line-height: 120%;
+    color: #159F15;
+}
+#lorem{
+    margin-bottom: 4%;
+}
+#lorem p{
+    font-size: 14px;
+    font-family: 'Nunito';
+}
+#lorem h3{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 27.65px;
+line-height: 120%;
+/* or 33px */
+
+text-transform: capitalize;
+
+/* TitleColor */
+
+color: #3D3E48;
+}
+#lorem #p{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 180%;
+/* identical to box height, or 29px */
+
+
+color: #3D3E48;
+margin-top: -4%;
+}
+#row2 p{
+    margin-top: 3%;
+}
+#row2 h3{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 120%;
+    /* or 33px */
+
+    text-transform: capitalize;
+
+    /* TitleColor */
+
+    color: #3D3E48;
+}
+#row2 #p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    color: #3D3E48;
+    margin-top: -4%;
+}
+#row2 #p i{
+    color: #159F15;
+}
+#row3{
+    margin-bottom: 4%;
+}
+#row3 #image,#image2{
+    border-radius: 10px;
+}
+#row3 #image2{
+    margin-left: 2%;
+}
+#row3 h3{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 120%;
+    /* or 33px */
+
+    text-transform: capitalize;
+
+    /* TitleColor */
+
+    color: #3D3E48;
+}
+#row3 #p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    color: #3D3E48;
+    margin-top: -4%;
+}
+#row3 #p i{
+    color: #159F15;
+}
+footer{
+    margin-bottom: -5%;
+}
+#ct2{
+    margin-bottom: 4%;
+}
+#ct2 h1{
+    font-family: 'Nunito';
+    src: url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Poppins:wght@600&display=swap');
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* prem */
+
+    color: #159F15;
+    text-align: center;
+}
+#ct2 p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+
+    text-align: center;
+    letter-spacing: -0.01em;
+
+    color: #000000;
+}
+#ct3{
+    margin-bottom: 4%;
+}
+#ct3 p{
+    width: 549px;
+    height: 125px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    margin-top: 10%;
+    margin-left: 8%;
+    /* or 25px */
+
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}

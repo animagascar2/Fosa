@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;0,1000;1,1000&family=Poppins:wght@600&display=swap');
+#ct1{
+    background-image: url(ServiceIMG/image\ 5.png );
+    height: 316px;
+    margin-bottom: 4%;
+}
+#ct1 h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33.18px;
+    line-height: 120%;
+    /* identical to box height, or 40px */
+
+    margin-top: 9%;
+    margin-left: 6.5%;
+    color: #FFFFFF;
+}
+#ct2{
+    margin-bottom: 8%;
+}
+#ct2 h1{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* prem */
+
+    color: #159F15;
+    text-align: center;
+}
+#ct2 p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+
+    text-align: center;
+
+    color: #3D3E48;
+    text-align: center;
+}
+#ct3 #img,#img1,#img2{
+    position: absolute;
+}
+#ct3 #img{
+    left: 17%;
+}
+#ct3 #img1{
+    left: 25%;
+}
+#ct3 #img2{
+    left: 13%;
+}
+#ct3 h3{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 27.65px;
+    line-height: 120%;
+    /* or 33px */
+
+
+    /* TitleColor */
+
+    color: #3D3E48;
+
+}
+#ct3 #lg6{
+    padding-top: 8%;
+    margin-bottom: 15%;
+}
+#ct3 #img3,#img4,#img5{
+    position: absolute;
+}
+#ct3 #img3{
+    right: 17%;
+}
+#ct3 #img4{
+    right: 13%;
+}
+#ct3 #img5{
+    right: 25%;
+}
+#ct3 #lg6_2{
+    padding-top: 8%;
+    padding-left: 8%;
+    margin-bottom: 15%;
+}
+#ct3 #lg6_3 #img6,#img7,#img8{
+    position: absolute;
+}
+#ct3 #lg6_3 #img6{
+    z-index: 1;
+    left: 3%;
+}
+#ct3 #lg6_3 #img7{
+    z-index: 3;
+}
+#ct3 #lg6_3 #img8{
+    z-index: 2;
+    left: 35%;
+}
+#ct3 #lg6_4{
+    margin-bottom: 20%;
+}
