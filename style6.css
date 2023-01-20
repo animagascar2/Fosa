@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;0,1000;1,1000&family=Poppins:wght@600&display=swap');
+#ct{
+    background-image: url(NewsIMG/image\ 5.png);
+    height: 316px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#ct h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33.18px;
+    line-height: 120%;
+    /* identical to box height, or 40px */
+
+
+    color: #FFFFFF;
+    margin-top: 9%;
+    margin-left: 5%;
+}
+#ct1{
+    text-align: center;
+    margin-bottom: 4%;
+}
+#ct1 h1{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* prem */
+
+    color: #159F15;
+}
+#ct1 p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+
+
+    color: #3D3E48;
+}
+#ct2 {
+    text-align: center;
+    margin-bottom: 4%;
+}
+#ct2 input[type=button]{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    color: #3D3E48;
+    border: none;
+    background: transparent;
+    margin-right: 5%;
+}
+#ct3{
+    padding-left:4%;
+}
+#ct3 #row1,#row2,#row3{
+    margin-bottom: 4%;
+}
+#ct3 span{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.2px;
+    line-height: 140%;
+    /* or 27px */
+
+
+    color: #3D3E48;
+}
+#ct4 samp{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    /* TitleColor */
+
+    color: #3D3E48;
+}
+#ct4{
+    padding-left:4%;
+}
+#ct4 #row1,#row2,#row3{
+    margin-bottom: 4%;
+}
+#ct4 span{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.2px;
+    line-height: 140%;
+    /* or 27px */
+
+
+    color: #3D3E48;
+}
+#ct4 samp{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    /* TitleColor */
+
+    color: #3D3E48;
+}
+#ct5{
+    padding-left:4%;
+}
+#ct5 #row1,#row2{
+    margin-bottom: 4%;
+}
+#ct5 span{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.2px;
+    line-height: 140%;
+    /* or 27px */
+
+
+    color: #3D3E48;
+}
+#ct5 samp{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    /* TitleColor */
+
+    color: #3D3E48;
+}
+#ct6{
+    padding-left:4%;
+}
+#ct6 #row1,#row2{
+    margin-bottom: 4%;
+}
+#ct6 span{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.2px;
+    line-height: 140%;
+    /* or 27px */
+
+
+    color: #3D3E48;
+}
+#ct6 samp{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
+
+
+    /* TitleColor */
+
+    color: #3D3E48;
+}
+#ct4,#ct5,#ct6{
+    display: none;
+}
