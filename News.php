@@ -33,7 +33,7 @@
     <div class="container" id="ct2">
         <div class="row">
             <div class="col-lg-12">
-                <input type="button" value="Voyage d’aventure" id="btn1">
+                <input type="button" value="Voyage d'aventure" id="btn1">
                 <input type="button" value="Explorez le monde"id="btn2">
                 <input type="button" value="Vacances en famille"id="btn3">
                 <input type="button" value="Art et culture"id="btn4">

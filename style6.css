@@ -51,7 +51,7 @@
     text-align: center;
     margin-bottom: 4%;
 }
-#ct2 input[type=button]{
+#ct2 #btn2,#btn3,#btn4{
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 800;
@@ -64,6 +64,16 @@
     border: none;
     background: transparent;
     margin-right: 5%;
+}
+#ct2 #btn1{
+    background-color: #159F15;
+    color: white;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
 }
 #ct3{
     padding-left:4%;
