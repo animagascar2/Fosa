@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-12" id="lg12">
                     <h3><b style="color:#3D3E48;"> Pourquoi <b style="color:#159F15;">Voyager</b> avec nous?</b></h3>
-                    <p style="color: #3D3E48;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum laborum hic explicabo magnam voluptatibus veniam, consequuntur ad perferendis labore adipisci nesciunt deserunt, quidem reprehenderit pariatur, natus nobis veritatis nostrum vero!</p>
+                    <p style="color: #3D3E48;">Fosa travel a fourni d'excellents voyages avec un excellent rapport qualité-prix et à des prix abordables. Nous avons une qualité de service et une expertise exceptionnelles pour aider un grand nombre de touristes de différentes classes, groupes de personnes dans différents circuits et excursions.</p>
                 </div>
             </div>
          </div>
@@ -46,7 +46,7 @@
                 <div class="col-lg-6">
                     <p style="color:#295943;line-height: 180%;"><b>Destination</b></p>
                     <h3 style="color:#3D3E48;"><b> Nous vous aidons à trouver <br> l'endroit de <samp style="color:#159F15;"> vos rêves</samp></b></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi</p>
+                    <p>Le hasard n'existe pas.Autant bien  pensez-vous à l'endroit où voulez-vous aller pour compléter vos rêves? Fosa travel est mieux placer afin de vous aider.</p>
                     <div class="containeur">
                         <div class="row">
                             <div class="col-md-6">
@@ -218,10 +218,10 @@
          <div class="container" id="p4">
             <div class="row">
                 <div class="col-lg-6">
-                <p id="l4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum eaque ratione eligendi porro, deleniti eos id laboriosam qui illum! Eius dignissimos unde, provident maiores labore ipsum nihil aut animi inventore.
-                Sint asperiores vero commodi, ipsum dolorem repellat eaque soluta eos cum blanditiis, consequatur eius vel consequuntur facilis aliquam repellendus, laborum recusandae vitae necessitatibus neque quo? Repudiandae vitae repellat nobis voluptates.
-                .</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore blanditiis harum aspernatur, voluptatibus iste eaque corrupti veritatis quasi quidem sint excepturi. Ipsum necessitatibus molestias pariatur odit quod consequuntur quis delectus.</p>
+                <p id="l4">Parmi les 6 provinces de Madagascar,Majunga est la plus favorable pour le tourisme des plages,sans  oublier les parcs nationaux divers. 
+                            Des richesses halieutiques locales vont vous surprendre rien qu'en arrivant.</p>
+                <p>Des lieux historiques nous rappellent toujours l'Antiquité.  Les Majungais qui sont  très connus  par ses compétences d'hospitalité vous accueillent avec des bras ouverts.
+La découverte des paysages différents ,accompagnés des visites au coeur des montagnes nous fera plonger dans des aventures spéciales.</p>
                     <button>Voir plus d'information</button>
                 </div>
                 <div class="col-lg-6">
@@ -240,9 +240,10 @@
                     <img src="Fosa3/Frame 7994.png" alt="image"id="img">
                     <img src="Fosa3/Frame 7991.png" alt="image"id="img">
                     <h3 style="color: #3D3E48;"><b>Explorez le monde avec <br><span style="color:rgba(21, 159, 21, 1);"> le sourire</span></b></h3> <br>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias doloremque illum eaque blanditiis qui ipsam quae dolorem tempore, quisquam ea fuga neque voluptatibus laborum dolores ipsa! Error dicta ducimus sed.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias doloremque illum eaque blanditiis qui ipsam quae dolorem tempore, quisquam ea fuga neque voluptatibus laborum dolores ipsa! Error dicta ducimus sed.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias doloremque illum eaque blanditiis qui ipsam quae dolorem tempore, quisquam ea fuga neque voluptatibus laborum dolores ipsa! Error dicta ducimus sed.</p>
+                    <p>Par la bonté sculptée de la nature, Madagascar offre des meilleures destinations pour découvrir des plus beaux endroits.</p>
+                    <p>Votre visite n'est pas fortuite, voyageons ensemble avec Fossa. Tout le monde peut découvrir le monde, une découverte n'a jamais été une perte.
+                    Decidez dès maintenant. Nous n'attendons plus que vous pour débarquer.</p>
+                    
                 </div>
             </div>
          </div>

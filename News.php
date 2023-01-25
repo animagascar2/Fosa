@@ -43,7 +43,7 @@
     <div class="container" id="ct3">
         <div class="row" id="row1">
             <div class="col-lg-4">
-                <img src="NewsIMG/Rectangle 24.png" alt="img"><br><br>
+                <a href="Reservation.php"><img src="NewsIMG/Rectangle 24.png" alt="img"><br><br></a>
                 <span>Lorem ipsum dolor sit amet, aliquam,<br> purus.</span><br>
                 <samp>19 Avril 2023</samp>
             </div>
