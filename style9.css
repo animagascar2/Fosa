@@ -19,12 +19,16 @@ body{
     margin-top: -5%;
 }
 #ct1 #row2 #ct1_1 ul li{
-    margin-bottom: 10%;
+    margin-bottom: 30%;
 }
-#ct1 #row2 #ct1_1 ul li a img{
+#ct1 #row2 #ct1_1 ul li button{
+    border: none;
+    background: transparent;
+}
+#ct1 #row2 #ct1_1 ul li button img{
     width: 100%;
 }
-#ct1 #row2 #ct1_1 ul li a img:hover{
+#ct1 #row2 #ct1_1 ul li button img:hover{
     border:  4px solid #FAD40E;
     border-radius: 15px;
     padding-bottom: -10%;
@@ -119,6 +123,7 @@ body{
     color:#159F15 ;
     background-color: #159F15;
     margin-left: 3%;
+    margin-top: -1%;
 }
 #ct3 form label{
     font-family: 'Nunito';
@@ -139,6 +144,9 @@ body{
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
     border: #D2CFCF;
 }
+#ct3 form input[type=text]:focus{
+    outline: none;
+}
 #ct3 form select{
     width: 130px;
     height: 58px;
@@ -146,7 +154,10 @@ body{
     background: #FFFFFF;
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
     border: #D2CFCF;
-    }
+}
+#ct3 form select:focus{
+    outline: none;
+}
 #ct3 #ct3_5 #ct3_6 #ndenfant{
     width: 90%;
     text-align: center;
@@ -194,14 +205,33 @@ body{
     border: none;
     border-bottom: 2px solid #C9BBBB;
 }
+#ct3 #row2 #ct3_5 #valeur:focus{
+    outline: none;
+}
 #ct3 #row2 #ct3_5 .div{
     margin-top: 8%;
     background: #F5F1F1;
     padding: 2%;
     width: 100%;
 }
+#ct3 #h5{
+    margin-left: -0.08%;
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+
+
+color: #000000;
+}
+#ct3 #hr{
+    margin-left: -0.08%;
+}
 #ct3 #ct7{
     width: 110%;
+    margin-left: -2.5%;
 }
 #ct3 #ct7 #row1{
     margin-bottom: 3%;
@@ -255,5 +285,53 @@ body{
     text-align: center;
 }
 #ct3 #ct7 #md4 b{
-    font-size: 25px;
+    font-size: 25px;   
+}
+#ct3 #ct8 span{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 180%;
+    /* identical to box height, or 22px */
+
+
+    color: #786E6E;
+
+}
+#ct3 #ct8 input[type=password]{
+    width: 262px;
+    height: 58px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border:none;
+    padding-right: 15%;
+}
+#ct3 #ct8 input[type=password]:focus{
+    outline:  none;
+}
+#ct3 #ct8 button{
+    position: absolute;
+    border:none;
+    background:transparent;
+    left:32%;
+    padding-top:1%;
+}
+#ct3 #ct8 #yeux{
+    display: none;
+}
+#ct3 #ct8 input[type=submit]{
+    width: 193px;
+    height: 53px;
+
+    background: #025EFF;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 180%;
+    margin-top: 19%;
 }

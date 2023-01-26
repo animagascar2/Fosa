@@ -8,6 +8,10 @@
     background-size: cover;
     height: 982px;
 }
+#ct1 #lg6 img{
+    margin-top: 4%;
+    margin-left: 4%;
+}
 #ct1 h1{
     font-family: 'Nunito';
 font-style: normal;
@@ -21,9 +25,8 @@ color: #000000;
 }
 #ct1 hr{
     width: 40px;
-    height: 4px;
+    border: 3px solid #159F15;
     margin-left: 10%;
-    background: #159F15;
 }
 #ct1 #ct1_1 p span{
     font-family: 'Nunito';
