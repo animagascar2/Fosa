@@ -23,7 +23,7 @@
                 <div class="col-lg-6" id="acceuil">
                     <h1><b style="color:#159F15;">Il est temps</b><br><b style="color:#000000;">De découvrir votre prochaine endroit</b></h1>
                     <p>Économisez votre argent pour voyager en toute sécurité et explorer Madagascar avec Fosa3 travel , nous vous fournissons les meilleurs services de voyage.</p>
-                    <button><a href="#">explorez vos destinations <i class="fa-solid fa-circle-arrow-right"></i></a></button>
+                    <button><a href="News.php">explorez vos destinations <i class="fa-solid fa-circle-arrow-right"></i></a></button>
                 </div>
                 <div class="col-lg-6">
                     <img src="Fosa3/image.png" alt="image">
@@ -221,8 +221,8 @@
                 <p id="l4">Parmi les 6 provinces de Madagascar,Majunga est la plus favorable pour le tourisme des plages,sans  oublier les parcs nationaux divers. 
                             Des richesses halieutiques locales vont vous surprendre rien qu'en arrivant.</p>
                 <p>Des lieux historiques nous rappellent toujours l'Antiquité.  Les Majungais qui sont  très connus  par ses compétences d'hospitalité vous accueillent avec des bras ouverts.
-La découverte des paysages différents ,accompagnés des visites au coeur des montagnes nous fera plonger dans des aventures spéciales.</p>
-                    <button>Voir plus d'information</button>
+                La découverte des paysages différents ,accompagnés des visites au coeur des montagnes nous fera plonger dans des aventures spéciales.</p>
+                    <button><a href="Decouvrir.php" style="color: white;text-decoration: none;">Voir plus d'information</a></button>
                 </div>
                 <div class="col-lg-6">
                     <img src="Fosa3/image2.png" alt="image">

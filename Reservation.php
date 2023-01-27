@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style9.css" type="text/css">
     <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="https://kit.fontawesome.com/8819a2739b.css" crossorigin="anonymous">
+   
     <title>Reservation</title>
 </head>
 <body>
@@ -380,7 +382,7 @@
                                             <div class="col-md-6">
                                                 <div class="div">
                                                     <label for="vous" id="vous">VOUS DEUVEZ PAYER</label>
-                                                    <input type="text" name="valeur" id="valeur"><b>$</b>
+                                                    <input type="text" name="valeur" id="valeur" value=""><b>$</b>
                                                 </div>
                                             </div>
                                         </div>
@@ -416,8 +418,8 @@
                                     <label for="mdp">Mot de passe</label><br>
                                     <span>Entrez votre mot de passe</span><br>
                                     <input type="password" name="mdp" id="mdp">
-                                    <button><img src="ReservationIMG/yeux.svg" alt="yeux" id="yeux" style="width:20px; "></button>
-                                    <button><img src="ReservationIMG/yeux2.svg" alt="yeux" id="yeux" style="width:20px; "></button>
+                                    <i class="fa-regular fa-eye" id="yeux"></i>
+                                    <i class="fa-solid fa-eye-slash" id="yeux2"></i>
                                 </div>
                                 <div class="col-md-4">
                                     <input type="submit" value="Payez maintenant">

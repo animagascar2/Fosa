@@ -12,11 +12,11 @@
 <body>
     <div class="containeur" id="ct1">
         <div class="row">
-            <div class="col-lg-6" id="lg6">
+            <div class="col-lg-5" id="lg6">
                 <img src="Fosa3/logo.png" alt="logo">
             </div>
-            <div class="col-lg-6">
-                <h1>Connectez-vous </h1>
+            <div class="col-lg-7" id="lg6_1">
+                <h1>Connectez-nous </h1>
                 <hr>
                 <div class="container" id="ct1_1">
                     <div class="row">

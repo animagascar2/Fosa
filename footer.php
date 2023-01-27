@@ -37,7 +37,7 @@
                 <h3>Contactez-<b style="color:#49B649">nous</b></h3>
                 <form action="" method="post">
                 <input type="email" name="email" id="email"placeholder="Votre Email">
-                <input type="submit" value="Subscribe" name="Subscribe">
+                <input type="submit" value="Envoyer" name="Subscribe">
                 </form>
                <br>
                 <p><i class="fab fa-instagram"></i>

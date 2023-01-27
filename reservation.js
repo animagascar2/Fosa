@@ -8,7 +8,6 @@ const valeur= document.getElementById('valeur');
 const cart= document.getElementById('cart');
 const mois= document.getElementById('mois');
 const année= document.getElementById('année');
-const mdp= document.getElementById('mdp');
 const ndenfant1= document.getElementById('ndenfant1');
 const ndadult1= document.getElementById('ndadult1');
 
@@ -34,8 +33,17 @@ function functionPrenom(){
         prenom.style.border="3px solid #1be11b";
     }
 }
+// calcule des valeur à payer
+
+valeur.value= 500;
+var val= Number(valeur.value);
+var valeurEnfant="";
+var valeurAdulte="";
+var somme="";
+
 
 // nombre d'enfant.
+var nbEnfantAdd="";
 enfant.addEventListener('input', FunctionEnfant);
 function FunctionEnfant(){
     let Error= document.getElementById("sampError");
@@ -56,15 +64,27 @@ function FunctionEnfant(){
          ndenfant1.addEventListener('click',addEfant);
             var m= Number(enfant.value);
             function addEfant(){
-                var n= m+ 1; 
+                nbEnfantAdd= m+ 1; 
                 m++;
-                enfant.value = n;
+                enfant.value = nbEnfantAdd;
+                // calcule des valuers pour les enfants en utilisant la boutton "+"
+
+
+                valeurEnfant= val * Number(enfant.value);
+                somme=Number(valeurEnfant) + Number (valeurAdulte);
+                valeur.value = somme;
  }
+    // calcule des valuers pour les enfants
+
+    valeurEnfant= val * Number(enfant.value);
+    somme=Number(valeurEnfant) + Number (valeurAdulte);
+    valeur.value = somme;
 
     }
 }
 
 // nombre d'adulte
+var ndAdulteAdd="";
 adult.addEventListener('input', FunctionAdult);
 function FunctionAdult(){
     let Error= document.getElementById("sampError");
@@ -84,10 +104,46 @@ function FunctionAdult(){
          ndadult1.addEventListener('click',addadult);
             var m= Number(adult.value);
             function addadult(){
-                var n= m+ 1; 
+                ndAdulteAdd= m+ 1; 
                 m++;
-                adult.value = n;
- }
+                adult.value = ndAdulteAdd;
+                // calcule des valuers pour les adultes en utilisant la boutton "+"
 
+                valeurAdulte= val * Number(adult.value);
+                somme=Number(valeurEnfant) + Number (valeurAdulte);
+                valeur.value = somme;
+    }
+    // calcule des valuers pour les adultes
+
+    valeurAdulte= val * Number(adult.value);
+    somme=Number(valeurEnfant) + Number (valeurAdulte);
+    valeur.value = somme;
+
+    }
+}
+
+// affichage de mots de passe
+const mdp= document.getElementById('mdp');
+
+mdp.addEventListener('input',mdpAffiche);
+function mdpAffiche(){
+    document.getElementById('yeux2').style.display="inline";
+
+    // activer les yeux
+    let yeux2 =document.getElementById('yeux2');
+    yeux2.addEventListener('click',yeuxActive);
+    function yeuxActive(){
+        yeux2.style.display="none";
+        document.getElementById('yeux').style.display="inline";
+        mdp.setAttribute("type","text");
+        mdp.style.paddingRight="15%";
+    }
+
+    let yeux =document.getElementById('yeux');
+    yeux.addEventListener('click',yeuxActive2);
+    function yeuxActive2(){
+        yeux.style.display="none";
+        document.getElementById('yeux2').style.display="inline";
+        mdp.setAttribute("type","password");
     }
 }

@@ -124,6 +124,7 @@ body{
     background-color: #159F15;
     margin-left: 3%;
     margin-top: -1%;
+    opacity: 1;
 }
 #ct3 form label{
     font-family: 'Nunito';
@@ -228,6 +229,7 @@ color: #000000;
 }
 #ct3 #hr{
     margin-left: -0.08%;
+    opacity: 1;
 }
 #ct3 #ct7{
     width: 110%;
@@ -310,16 +312,17 @@ color: #000000;
 #ct3 #ct8 input[type=password]:focus{
     outline:  none;
 }
-#ct3 #ct8 button{
+#ct3 #ct8 i{
     position: absolute;
     border:none;
     background:transparent;
-    left:32%;
-    padding-top:1%;
+    left:31%;
+    padding-top:1.5%;
+    cursor: pointer;
 }
-#ct3 #ct8 #yeux{
+#ct3 #ct8 #yeux2,#yeux{
     display: none;
-}
+} 
 #ct3 #ct8 input[type=submit]{
     width: 193px;
     height: 53px;

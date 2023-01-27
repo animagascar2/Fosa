@@ -88,17 +88,17 @@
     <div class="container" id="ct5">
         <div class="row">
             <div class="col-lg-4">
-                <img src="ProposIMG/Vector.svg" alt="svg"><br><br>
+                <img src="ProposIMG/Group.png" alt="svg"><br><br>
                 <h4>Meilleur prix</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
             </div>
             <div class="col-lg-4">
-                <img src="ProposIMG/Vector (2).svg" alt="svg"><br><br>
+                <img src="ProposIMG/Group1.png" alt="svg"><br><br>
                 <h4>Réservation facile</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
             </div>
             <div class="col-lg-4">
-                <img src="ProposIMG/Vector (1).svg" alt="svg"><br><br>
+                <img src="ProposIMG/Group2.png" alt="svg"><br><br>
                 <h4>Service à la clientèle 24h/24</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
             </div>
