@@ -25,8 +25,8 @@
                     <p>Économisez votre argent pour voyager en toute sécurité et explorer Madagascar avec Fosa3 travel , nous vous fournissons les meilleurs services de voyage.</p>
                     <button><a href="News.php">explorez vos destinations <i class="fa-solid fa-circle-arrow-right"></i></a></button>
                 </div>
-                <div class="col-lg-6">
-                    <img src="Fosa3/image.png" alt="image">
+                <div class="col-lg-6" id="lg6">
+                    <img src="Fosa3/image.png" alt="image" id="fille">
                 </div>
             </div>
          </div>
@@ -40,10 +40,10 @@
          </div>
          <div class="container" id="p2">
             <div class="row">
-                <div class="col-lg-6">
-                    <img src="Fosa3/image1.png" alt="image1">
+                <div class="col-lg-6" id="lg6">
+                    <img src="Fosa3/image1.png" alt="image1" id="image">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" id="lg6_2">
                     <p style="color:#295943;line-height: 180%;"><b>Destination</b></p>
                     <h3 style="color:#3D3E48;"><b> Nous vous aidons à trouver <br> l'endroit de <samp style="color:#159F15;"> vos rêves</samp></b></h3>
                     <p>Le hasard n'existe pas.Autant bien  pensez-vous à l'endroit où voulez-vous aller pour compléter vos rêves? Fosa travel est mieux placer afin de vous aider.</p>
@@ -217,24 +217,24 @@
          </div>
          <div class="container" id="p4">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6" id="lg6">
                 <p id="l4">Parmi les 6 provinces de Madagascar,Majunga est la plus favorable pour le tourisme des plages,sans  oublier les parcs nationaux divers. 
                             Des richesses halieutiques locales vont vous surprendre rien qu'en arrivant.</p>
                 <p>Des lieux historiques nous rappellent toujours l'Antiquité.  Les Majungais qui sont  très connus  par ses compétences d'hospitalité vous accueillent avec des bras ouverts.
                 La découverte des paysages différents ,accompagnés des visites au coeur des montagnes nous fera plonger dans des aventures spéciales.</p>
                     <button><a href="Decouvrir.php" style="color: white;text-decoration: none;">Voir plus d'information</a></button>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" id="lg6_2">
                     <img src="Fosa3/image2.png" alt="image">
                 </div>
             </div>
          </div>
          <div class="container" id="p5">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6" id="lg6">
                     <img src="Fosa3/image3.png" alt="image">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" id="lg6_2">
                     <img src="Fosa3/Frame 7992.png" alt="image">
                     <img src="Fosa3/Frame 7993.png" alt="image"id="img">
                     <img src="Fosa3/Frame 7994.png" alt="image"id="img">

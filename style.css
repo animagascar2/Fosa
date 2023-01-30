@@ -34,7 +34,11 @@ li a{
 li a:hover{
     color: #159F15;
 }
-#lg2{
+.navbar i{
+    cursor: pointer;
+    display: none;
+}
+#lg2_2{
     padding-top: 2%;
 }
 select{
@@ -43,6 +47,191 @@ select{
     color: #524e4e;
     background-color: white;
 }
+#lg2_2 i{
+    display: none;
+    position: absolute;
+    color: #159F15;
+    cursor: pointer;
+}
 /* acceuil */
 
 /* footer */
+
+@media screen and (min-width: 992px) {
+    /* STYLES HERE */
+    body{
+        width: 100%;
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+    #conataineur{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #row{
+        padding-top: 20px;
+    }
+    #lg8{
+        padding-top: 1%; 
+    }
+    ul{
+        margin-left: 4vw;
+    }
+    li a{
+        text-decoration: none;
+        width: 64px;
+        height: 29px;
+        font-weight: 900;
+        font-size: 16px;
+        line-height: 180%;
+        margin-left: 3vw;
+        color: #635B5B;
+    
+    }
+    li a:hover{
+        color: #159F15;
+    }
+    .navbar i{
+        cursor: pointer;
+        display: none;
+    }
+    #lg2_2{
+        padding-top: 2%;
+    }
+    select{
+        border: none;
+        margin-left: 3vw;
+        color: #524e4e;
+        background-color: white;
+    }
+    
+}
+@media screen and (min-device-width: 481px) and (max-device-width: 991px) { 
+    /* STYLES HERE */
+    body{
+        width: 99%;
+    }
+    #conataineur{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    #row{
+        padding-top: 20px;
+        width: 100%;
+    }
+    #lg2{
+        width: 10%;
+        position: absolute;
+        left: 10px;
+    }
+    #lg2 #logo{
+        margin-left: 0;
+    }
+    #lg8{
+        width: 80%;
+        padding-top: 2%;
+        margin-left: 15%;
+        margin-bottom: 5%;
+        padding-left: 0px;
+
+    }
+
+    li a{
+        text-decoration: none;
+        font-size: x-small;
+        justify-content: space-between;
+        color: #635B5B;
+    
+    }
+    li a:hover{
+        color: #159F15;
+    }
+    .navbar i{
+        cursor: pointer;
+        display: none;
+    }
+    #lg2_2{
+        padding-top: 3.5%;
+        padding-left: 1%;
+        width: 10%;
+        position: absolute;
+        right: 10px;
+
+    }
+    select{
+        border: none;
+        color: #524e4e;
+        background-color: white;
+    }
+    
+}
+
+@media only screen and (max-device-width: 480px) {
+    /* STYLES HERE */
+    body{
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+    #conataineur{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #row{
+        padding-top: 0px;
+        width: 100%;
+    }
+    #lg2{
+        width: 10%;
+        padding-top: 0;
+    }
+    #lg8{
+        width: 50%;
+        height: 75vh;
+        top: 0px;
+        right: 0px;
+        position: absolute;
+        background-color: #159f1583;
+        z-index: 1;
+        text-align: justify;
+        overflow-x: scroll;
+        display: none;
+
+    }
+    #lg8 ul{
+        display: block;
+    }
+    #lg8 ul li{
+        padding-bottom: 5vh;
+    }
+    #lg8 ul li a{
+        color: #ffff;
+
+    }
+    #lg2_2{
+        width: 10%;
+        position: absolute;
+        right: 0;
+    }
+    #lg2_2 img{
+        display: none;
+    }
+    #lg2_2 select{
+        display: none;
+    }
+    #lg2_2 i{
+        display: block;
+        position: absolute;
+        color: #159F15;
+        cursor: pointer;
+        z-index: 2;
+    }
+    #lg2_2 #hide{
+        display: none;
+    }
+
+}

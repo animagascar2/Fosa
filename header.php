@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" type="text/css">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
@@ -14,8 +15,8 @@
 <body>
     <div class="container" id="containeur">
         <div class="row" id="row">
-            <div class="col-lg-2">
-                <img src="Fosa3/Logo.png" alt="Logo">
+            <div class="col-lg-2" id="lg2">
+                <img src="Fosa3/Logo.png" alt="Logo" id="logo">
             </div>
             <div class="col-lg-9" id="lg8">
                 <nav class="navbar">
@@ -29,15 +30,18 @@
                     </ul>
                 </nav>
             </div>
-            <div class="col-lg-1" id="lg2">
+            <div class="col-lg-1" id="lg2_2">
             <img src="images/Flag_of_France.svg.png" alt="France" id="Fr" width="30px" height= "15px">
                 <select name="select" id="select">
                     <option value="France"><b> Fr</b></option>
                     <option value="Allemand"><b> Gr</b></option>
                     <option value="Anglais"><b>En</b></option>
                 </select>
+                <i class="fa-sharp fa-solid fa-bars" id="show"></i>
+                <i class="fa-solid fa-xmark" id="hide"></i>
             </div>
         </div>
     </div>
+    <script src="header.js"></script>
 </body>
 </html>

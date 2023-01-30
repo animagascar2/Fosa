@@ -6,10 +6,11 @@ body{
     background-image: url(Fosa3/footer.png);
     height: 460px;
     padding-top: 8%;
+    max-width: 100%;
 }
 #md6 p{
     color:  #FFFFFF;
-    font-size: 24px;
+    font-size: 4vh;
     line-height: 33px;
     margin-left: 7%;
 }
@@ -18,29 +19,19 @@ h3{
     padding-bottom: 3%;
 }
 #lg1{
+    max-width: 100%;
     padding-left: 5%;
+}
+#lg4{
+    max-width: 100%;
 }
 #lg4 p{
     color:#FFFFFF;
-    font-size: 24px;
+    font-size: 3vh;
     line-height: 33px;
 }
-input[type=email]{
-    width: 408px;
-    height: 59px;
-    border-radius: 10px;
-    padding-left: 15px;
-}
-input[type=submit]{
-    width: 115px;
-    height: 37px;
-    background: #159F15;
-    border-radius: 8px;
-    color: #FFFFFF;
-    border: none;
-    margin-top: 0.8%;
-    position: absolute;
-    right: 6.5%;
+#lg3{
+    max-width: 100%;
 }
 #lg3 p{
     width: 175px;
@@ -50,4 +41,23 @@ input[type=submit]{
     color: #FFFFFF;
     margin-left: 10px;
     font-size: 20px;
+}
+#lg3 input[type=email]{
+    width: 90%;
+    height: 59px;
+    border-radius: 10px;
+    padding-left: 15px;
+    outline: none;
+    border: none;
+}
+#lg3 input[type=submit]{
+    width: 115px;
+    height: 37px;
+    background: #159F15;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 0.8%;
+    position: absolute;
+    right: 5%;
 }

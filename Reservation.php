@@ -367,12 +367,12 @@
                                                     <div class="row">
                                                         <div class="col-md-6">
                                                             <label for="enfant">enfant</label><br>
-                                                            <input type="text" name="nbenfant" id="ndenfant"placeholder="0">
+                                                            <input type="text" name="nbenfant" id="ndenfant"placeholder="0" value="0">
                                                             <input type="button" value="+" id="ndenfant1">
                                                         </div>
                                                         <div class="col-md-6">
                                                                 <label for="adultes">adultes</label><br>
-                                                                <input type="text" name="nbadult" id="ndadult" placeholder="0">
+                                                                <input type="text" name="nbadult" id="ndadult" placeholder="0" value="0">
                                                                 <input type="button" value="+"id="ndadult1">
                                                         </div>
                                                         <samp style="color:red;display:none;font-size:10px" id="sampError">Entrer uniquement une valeur numerique</samp>

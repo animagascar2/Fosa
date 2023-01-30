@@ -109,3 +109,156 @@ margin-left: 50%;
 #p5 h3{
     margin-top: 20%;
 }
+
+@media screen and (min-width: 992px) {
+    /* STYLES HERE */
+    #acceuille{
+        font-family: 'Nunito';
+        margin-bottom: 10%;
+    }
+    
+    #acceuil h1 b {
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 102.5%;
+    }
+    #acceuille #lg6 #fille{
+        width: 100%;
+    }
+    #acceuil button{
+        max-width: 40vh;
+        height: 60px;
+        
+        background: #159F15;
+        border-radius: 50px;
+        border: none;
+    }
+    #acceuil button a{
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+    #lg12{
+        text-align: center;
+        margin-bottom: 5%;
+        font-family: 'Nunito';
+    }
+    #lg12 h3 b{
+        font-family: 'Nunito';
+    }
+    #p2{
+        margin-bottom: 5%;
+    }
+    #p2 #lg6{
+        max-width: 100%;
+    }
+    #p2 #lg6 #image{
+        width: 100%;
+    }
+    #p2 #lg6_2{
+        max-width: 100%;
+    }
+    .containeur .sous{
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 900;
+        font-size: smaller;
+        line-height: 120%;
+        color: #FF6600;
+    }
+    #p3 #lg4{
+        max-width: 55vh;
+        height: auto;
+        background: #FFFFFF;
+        box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        margin-bottom: 5%;
+    }
+    #p3{
+        margin-left: 10%;
+    }
+    #p3 img{
+        width: 100%;
+        margin-top: 3%;
+        margin-bottom: 7%;
+    }
+    #p3 #sous{
+        padding-top: 7%;
+    }
+    #p3 #sous #time p{
+        margin-left: 45%;
+        font-size: 14px;
+        line-height: 180%;
+    }
+    #p3 #lg5{
+        max-width: 55vh;
+        height: auto;
+        background: #FFFFFF;
+        box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        margin-bottom: 5%;
+        margin-left: 4vh;
+    }
+    #p4{
+        margin-bottom: 7%;
+    }
+    #p4 #lg6{
+        max-width: 100%;
+    }
+    #p4 #lg6_2{
+        max-width: 100%;
+    }
+    #p4 #lg6_2 img{
+        width: 100%;
+    }
+    #p4 #l4{
+        margin-top: 2%;
+    }
+    #p4 img{
+        margin-left: 5%;
+        margin-top: -5%;
+    }
+    #p4 button{
+        width: 284px;
+    height: 60px;
+    
+    /* Fosa3 */
+    
+    background: #159F15;
+    border-radius: 12px;
+    border: none;
+    margin-left: 50%;
+    }
+    
+    #p5{
+        margin-bottom: 7%;
+    }
+    #p5 #lg6{
+        max-width: 100%;
+    }
+    #p5 #lg6 img{
+        width: 90%;
+    }
+    #p5 #lg6_2{
+        max-width: 100%;
+    }
+    #p5 #lg6_2 #img{
+        margin-left: 15%;
+        width: 13%;
+    }
+    #p5 #lg6_2 img{
+        width: 13%;
+    }
+    #p5 h3{
+        margin-top: 20%;
+    }
+}
+
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) { 
+    /* STYLES HERE */
+}
+
+@media only screen and (max-device-width: 480px) {
+    /* STYLES HERE */
+}
