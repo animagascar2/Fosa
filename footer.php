@@ -14,11 +14,11 @@
 </head>
 <body>
     <div class="containeur" id="footer">
-        <div class="row">
+        <div class="row" id="row">
             <div class="col-lg-5" id="lg1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3">
+                <div class="containeur">
+                    <div class="row" id="row1">
+                        <div class="col-md-3" id="md3">
                             <img src="Fosa3/Logo.png" alt="logo">
                         </div>
                         <div class="col-md-9" id="md6">

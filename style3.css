@@ -46,9 +46,9 @@ h3{
     width: 90%;
     height: 59px;
     border-radius: 10px;
-    padding-left: 15px;
     outline: none;
     border: none;
+   
 }
 #lg3 input[type=submit]{
     width: 115px;
@@ -60,4 +60,134 @@ h3{
     margin-top: 0.8%;
     position: absolute;
     right: 5%;
+}
+
+@media screen and (min-device-width: 600px) and (max-device-width: 991px){
+    body{
+        max-width: 100%;
+    }
+    #footer{
+        max-width: 100%;
+        height: 350px;
+    }
+    #footer #row{
+        max-width: 110%;
+        margin-left: 4px;
+
+    }
+    #footer #lg1, #lg4, #lg3{
+        max-width: 33.25%;
+    }
+    #footer #lg1 #row1 #md3{
+        max-width: 100%;
+        display: none;
+    }
+    #footer #lg1 #row1 #md6{
+        max-width: 100%;
+    }
+    #footer #lg1 #row1 #md6 p{
+        font-size: 1.5vw;
+        z-index: 2;
+    }
+    #footer #lg4 h3{
+        font-size: 4vw;
+    }
+    #footer #lg4 p{
+        font-size: 2vw;
+    }
+    #lg3 h3{
+        font-size: 4vw;
+    }
+    #lg3 p i{
+        color: #FFFFFF;
+        margin-left: 10px;
+        font-size: 2vw;
+    }
+    #lg3 input[type=email]{
+        width: 90%;
+        height: 5vw;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        font-size: 1.5vw;
+        padding-right: 50px;
+    }
+    #lg3 input[type=submit]{
+        width: 10vw;
+        height: auto;
+        background: #159F15;
+        border-radius: 5px;
+        color: #FFFFFF;
+        border: none;
+        margin-top: 0.8%;
+        position: absolute;
+        right: 6%;
+        font-size: 1.5vw;
+    }
+
+    
+}
+@media screen and (min-device-width: 10px) and (max-device-width: 599px){
+    body{
+        max-width: 100%;
+    }
+    #footer{
+        max-width: 100%;
+        height: 200px;
+    }
+    #footer #row{
+        max-width: 110%;
+        margin-left: 4px;
+
+    }
+    #footer #lg1, #lg4, #lg3{
+        max-width: 33.25%;
+    }
+    #footer #lg1 #row1 #md3{
+        max-width: 100%;
+        display: none;
+    }
+    #footer #lg1 #row1 #md6{
+        max-width: 100%;
+    }
+    #footer #lg1 #row1 #md6 p{
+        font-size: 1.5vw;
+        z-index: 2;
+    }
+    #footer #lg4 h3{
+        font-size: 4vw;
+    }
+    #footer #lg4 p{
+        font-size: 2vw;
+    }
+    #lg3 h3{
+        font-size: 4vw;
+    }
+    #lg3 p i{
+        color: #FFFFFF;
+        margin-left: 10px;
+        font-size: 2vw;
+    }
+    #lg3 input[type=email]{
+        width: 90%;
+        height: 5vw;
+        border-radius: 3px;
+        outline: none;
+        border: none;
+        font-size: 1.5vw;
+        padding-right: 50px;
+    }
+    #lg3 input[type=submit]{
+        width: 10vw;
+        height: auto;
+        background: #159F15;
+        border-radius: 5px;
+        color: #FFFFFF;
+        border: none;
+        margin-top: 2.5%;
+        position: absolute;
+        right: 6%;
+        font-size: 1.5vw;
+    }
+
 }

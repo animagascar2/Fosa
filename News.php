@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="style6.css" type="text/css">
     <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+    <style>
+        li.new a{
+    color: #159F15;
+    }
+    </style>
     <title>News</title>
 </head>
 <body>

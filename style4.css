@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Poppins:wght@600&display=swap');
-*.container{
-    width: 99.2%;
+.container{
+    width: 100vw;
 }
 
-.containeur{
+#ct1{
     background-image: url(DecouvrirIMG/image\ 4.png);
     height: 316px;
     margin-bottom: 4%;
-    width: 100%;
+    width: 100vw;
     margin-top: 2%;
 }
 .containeur h1{
@@ -61,8 +61,15 @@ line-height: 180%;
 color: #3D3E48;
 margin-top: -4%;
 }
+#row2{
+    width: 100%;
+}
+#row2 img{
+    max-width: 55vw;
+}
 #row2 p{
     margin-top: 3%;
+    font-size: 1vw;
 }
 #row2 h3{
     font-family: 'Nunito';
@@ -98,6 +105,7 @@ margin-top: -4%;
 }
 #row3 #image,#image2{
     border-radius: 10px;
+    max-width: 25vw;
 }
 #row3 #image2{
     margin-left: 2%;
@@ -133,9 +141,11 @@ margin-top: -4%;
 }
 footer{
     margin-bottom: -5%;
+    width: 100vw;
 }
 #ct2{
     margin-bottom: 4%;
+    width: 100vw;
 }
 #ct2 h1{
     font-family: 'Nunito';
@@ -168,6 +178,7 @@ footer{
 }
 #ct3{
     margin-bottom: 4%;
+    width: 100vw;
 }
 #ct3 p{
     width: 549px;

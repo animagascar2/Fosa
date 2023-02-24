@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="style7.css" type="text/css">
     <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+    <style>
+        li.apropos a{
+    color: #159F15;
+    }
+    </style>
     <title>A Propos</title>
 </head>
 <body>
@@ -50,7 +55,7 @@
                 <div class="containeur" id="ct4_1">
                     <div class="row">
                         <div class="col-md-6">
-                        <img src="ProposIMG/Rectangle 30.png" alt="img">
+                        <img src="AproposIMG/Rectangle 30.png" alt="img">
                             <h2>Agung perdana</h2>
                             <span>comptables </span>
                         </div>

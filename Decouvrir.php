@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="style4.css" type="text/css">
     <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+    <style>
+        li.decouvrir a{
+    color: #159F15;
+    }
+    </style>
     <title>Decouvrir</title>
 </head>
 <body>
@@ -44,7 +49,7 @@
             </div>
         </div>
         <div class="row"id="row2">
-            <div class="col-lg-8">
+            <div class="col-lg-8" id="lg8">
                 <img src="DecouvrirIMG/Rectangle 17.png" alt="image">
                 <h3>Ville de Mahajanga</h3>
                 <p id="p"><i class="fa-solid fa-location-dot"></i> Mahajanga, Madagascar</p>

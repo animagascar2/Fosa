@@ -21,11 +21,11 @@
             <div class="col-lg-9" id="lg8">
                 <nav class="navbar">
                     <ul class="nav navbar">
-                        <li><a href="index.php">Acceuil</a></li>
-                        <li><a href="Decouvrir.php">Découvrir</a></li>
-                        <li><a href="Services.php">Services</a></li>
-                        <li><a href="News.php">News</a></li>
-                        <li><a href="Propos.php">A propos</a></li>
+                        <li class="acceuil"><a href="index.php">Acceuil</a></li>
+                        <li class="decouvrir"><a href="Decouvrir.php">Découvrir</a></li>
+                        <li class="service"><a href="Services.php">Services</a></li>
+                        <li class="new"><a href="News.php">News</a></li>
+                        <li class="apropos"><a href="Propos.php">A propos</a></li>
                         <li><a href="Contact.php">Contact</a></li>
                     </ul>
                 </nav>

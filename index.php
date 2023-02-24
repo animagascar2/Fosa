@@ -10,6 +10,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@100;300&display=swap" rel="stylesheet">
+    <style>
+        li.acceuil a{
+    color: #159F15;
+    }
+    </style>
     <title>Acceuil</title>
 </head>
 <body>
@@ -81,7 +86,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6" id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -95,7 +100,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6" id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -109,7 +114,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6" id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -125,7 +130,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6"id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -139,7 +144,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6"id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -153,7 +158,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6"id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -169,7 +174,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6"id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -183,7 +188,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6"id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
@@ -197,7 +202,7 @@
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6"id="prix">
                                 <p style="color: #295943;"><b>5 000 $</b></p>
                             </div>
                             <div class="col-md-6" id="time">
