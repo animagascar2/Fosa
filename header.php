@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+ <html lang="en">
 <head>
+    <!--
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <link rel="stylesheet" href="style.css" type="text/css">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
     <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
@@ -37,8 +38,8 @@
                     <option value="Allemand"><b> Gr</b></option>
                     <option value="Anglais"><b>En</b></option>
                 </select>
-                <i class="fa-sharp fa-solid fa-bars" id="show"></i>
-                <i class="fa-solid fa-xmark" id="hide"></i>
+                <i class="fa-sharp fa-solid fa-bars fa-2x" id="show"></i>
+                <i class="fa-solid fa-xmark fa-2x" id="hide"></i>
             </div>
         </div>
     </div>

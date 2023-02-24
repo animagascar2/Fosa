@@ -5,7 +5,10 @@
     font-style: normal;
 }
 body{
-    width: 99.2%;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 #conataineur{
     padding-left: 10px;

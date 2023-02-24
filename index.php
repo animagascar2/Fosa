@@ -51,7 +51,7 @@
                 <div class="col-lg-6" id="lg6_2">
                     <p style="color:#295943;line-height: 180%;"><b>Destination</b></p>
                     <h3 style="color:#3D3E48;"><b> Nous vous aidons à trouver <br> l'endroit de <samp style="color:#159F15;"> vos rêves</samp></b></h3>
-                    <p>Le hasard n'existe pas.Autant bien  pensez-vous à l'endroit où voulez-vous aller pour compléter vos rêves? Fosa travel est mieux placer afin de vous aider.</p>
+                    <p class="b">Le hasard n'existe pas.Autant bien  pensez-vous à l'endroit où voulez-vous aller pour compléter vos rêves? Fosa travel est mieux placer afin de vous aider.</p>
                     <div class="containeur">
                         <div class="row">
                             <div class="col-md-6">
@@ -81,7 +81,7 @@
          </div>
          <div class="container" id="p3">
             <div class="row">
-                <div class="col-lg-4" id="lg4">
+                <div class="col-lg-4" id="lg4-1">
                     <img src="Fosa3/Rectangle 5.png" alt="Image0">
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
@@ -125,7 +125,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4" id="lg4">
+                <div class="col-lg-4" id="lg4-1">
                     <img src="Fosa3/Rectangle 8.png" alt="Image0">
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
@@ -169,7 +169,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4" id="lg4">
+                <div class="col-lg-4" id="lg4-1">
                     <img src="Fosa3/Rectangle 11.png" alt="Image0">
                     <h5 style="color: #3D3E48;"><b> Taman Nasional Komodo</b></h5>
                     <div class="containeur" id="sous">
@@ -244,7 +244,7 @@
                     <img src="Fosa3/Frame 7993.png" alt="image"id="img">
                     <img src="Fosa3/Frame 7994.png" alt="image"id="img">
                     <img src="Fosa3/Frame 7991.png" alt="image"id="img">
-                    <h3 style="color: #3D3E48;"><b>Explorez le monde avec <br><span style="color:rgba(21, 159, 21, 1);"> le sourire</span></b></h3> <br>
+                    <h4 style="color: #3D3E48;"><b>Explorez le monde avec <br><span style="color:rgba(21, 159, 21, 1);"> le sourire</span></b></h4> <br>
                     <p>Par la bonté sculptée de la nature, Madagascar offre des meilleures destinations pour découvrir des plus beaux endroits.</p>
                     <p>Votre visite n'est pas fortuite, voyageons ensemble avec Fossa. Tout le monde peut découvrir le monde, une découverte n'a jamais été une perte.
                     Decidez dès maintenant. Nous n'attendons plus que vous pour débarquer.</p>

@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
     <style>
         li.decouvrir a{
-    color: #159F15;
+        color: #159F15;
     }
     </style>
     <title>Decouvrir</title>
@@ -29,7 +29,7 @@
     </div>
     <div class="container">
         <div class="row" id="lorem">
-            <div class="col-lg-8">
+            <div class="col-lg-8" id="lg8-1">
                 <div class="container">
                     <div class="row" id="lorem2">
                         <div class="col-md-2">
@@ -49,12 +49,12 @@
             </div>
         </div>
         <div class="row"id="row2">
-            <div class="col-lg-8" id="lg8">
+            <div class="col-lg-8" id="lg8-1">
                 <img src="DecouvrirIMG/Rectangle 17.png" alt="image">
                 <h3>Ville de Mahajanga</h3>
                 <p id="p"><i class="fa-solid fa-location-dot"></i> Mahajanga, Madagascar</p>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4" >
                 <p style=" text-align: justify;">Touristiquement parlant, Mahajanga abrite plusieurs sites qui peuvent vous surprendre, vous faire rêver et transformer vos vacances en séjours inoubliables, allant de ses plages diverses aux paysages variés des terres intérieures.</p>
                 <p><span style="color: #159F15;font-size: 14px;">Mahajanga</span> est un centre histoire: c'est-à partir de cet ancien port de pêcheurs que se développa le royaume de Sakalava. Majunga devient alors un ville marchande avec des échanges avec les autres iles de l'océan indien. Le particuler des restaurants à Majunga est que les plats sont à base de poisssons, crustacés et autre fruit de mer. Pour ceux qui aiment l'exotisme, vous trouverez des brochettes à la viende à la sauvette le long des quais accompagné d'un manioc et d'une sauce à base soit  de mangue, papaye vert ou piment mélangé avec des tomates.</p>
             </div>
@@ -66,8 +66,8 @@
                 <h3>Fosa</h3>
                 <p id="p"><i class="fa-solid fa-location-dot"></i> Marovoay, Madagascar</p>
             </div>
-            <div class="col-lg-4">
-            <p style=" text-align: justify;"><span style="color: #159F15;font-size: 14px;">Fosa</span>(prononcez "Foussa" en malgache) est un étrange animal musculeux et puissant que l'on ne trouve q'à Madagascar. Aussi connu sous le nom de cryptoprocte féroce (cryptoprocta ferox), on le croirait issu du croisement entre puma, un chien et un singe. Aussi à l'aise sur terre que dans les arbres ùo il se déplace avec aisancz grâce à ses griffes semi-rétractiles. Le Fosa est endémique de l'île de Madagascar. On le trouve en théorie sur toute l'île (à l'exception de centre), il est plutôt rare localement car solitaire et vivant isolé. </p>
+            <div class="col-lg-4" id="lg4-1">
+            <p style=" text-align: justify;"><span style="color: #159F15;font-size: 14px;">Fosa</span>(prononcez "Foussa" en malgache) est un étrange animal musculeux et puissant que l'on ne trouve qu'à Madagascar. Aussi connu sous le nom de cryptoprocte féroce (cryptoprocta ferox), on le croirait issu du croisement entre puma, un chien et un singe. Aussi à l'aise sur terre que dans les arbres ùo il se déplace avec aisancz grâce à ses griffes semi-rétractiles. Le Fosa est endémique de l'île de Madagascar. On le trouve en théorie sur toute l'île (à l'exception de centre), il est plutôt rare localement car solitaire et vivant isolé. </p>
             <p> </p>
             </div>
         </div>
@@ -82,11 +82,11 @@
     </div>
     <div class="container" id="ct3">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6" id="lg6">
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, error maxime tempore reprehenderit sint autem nisi debitis recusandae quod est dicta eum neque corporis magnam saepe cum ea, molestias perferendis? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus atque ipsum quam minus, inventore voluptate quae sint veniam nesciunt eligendi commodi, impedit in qui velit quisquam ipsam illo tenetur illum.</p>
             </div>
-            <div class="col-lg-6">
-                <img src="Fosa3/Rectangle 161.png" alt="">
+            <div class="col-lg-6" id="lg6">
+                <img src="Fosa3/Rectangle 161.png" alt="image">
             </div>
         </div>
     </div>
